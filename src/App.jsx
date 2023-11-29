@@ -30,9 +30,9 @@ const siteProps = {
   gitHub: "armincano",
   instagram: "armin.cano",
   linkedIn: "armincano",
-  medium: "",
+  medium: "armincano",
   twitter: "microsoft",
-  youTube: "@soyarmin",
+  youTube: "soyarmin",
 };
 
 const primaryColor = "#4E567E";

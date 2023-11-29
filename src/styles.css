@@ -34,6 +34,7 @@ section.padding {
 }
 
 section img.background {
+  opacity: 0.8;
   height: 100%;
   left: 50%;
   object-fit: cover;
